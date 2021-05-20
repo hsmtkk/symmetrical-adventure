@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 jupyterlab = "*"
 scikit-learn = "*"
+pandas = "*"
+pillow = "*"
+matplotlib = "*"
+tensorflow = "*"
 
 [dev-packages]
 
